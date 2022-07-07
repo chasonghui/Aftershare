@@ -1,10 +1,14 @@
 # Aftershare
+## 프로젝트 개요   
+//내용
+* * *
 
-[깃 협업 규칙](https://github.com/chasonghui/Aftershare/blob/main/Commit-Rules.md)
+## 사용기술   
+//내용
+* * *
 
-   
 ## 팀원   
-### Backend
+#### Backend
 <table>
     <tr height="140px">
         <td align="center" width="130px">
@@ -36,7 +40,7 @@
     </tr>
 </table>   
 
-### Frontend
+#### Frontend
 
 <table>   
     <tr height="140px">
@@ -68,3 +72,9 @@
         </td>
     </tr>
 </table>
+* * *
+   
+## 규칙
+[깃 협업 규칙](https://github.com/chasonghui/Aftershare/blob/main/Commit-Rules.md)
+
+* * *

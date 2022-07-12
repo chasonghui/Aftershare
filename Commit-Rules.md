@@ -45,3 +45,13 @@ style : 코드 스타일 혹은 포맷 등에 관한 커밋
 refactor : 코드 리팩토링에 대한 커밋
 test : 테스트 코드 수정에 대한 커밋
 ```
+
+### 커밋 순서
+1. git pull 
+2. git add 수정한 파일
+3. git status (git 상태 확인 본인이 add한거 제외하고 변경한 파일있는지 꼭 확인하기)
+4. git commit -m "커밋 규칙"
+5. git push origin 본인브랜치
+6. pull request 버튼 누르기
+7. 코드리뷰하기
+8. 프론트/백 팀장이 merge
